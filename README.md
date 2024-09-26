@@ -1,2 +1,2 @@
-# C NM
-C code of numerical metod only
+# NM
+C code of numerical method only
